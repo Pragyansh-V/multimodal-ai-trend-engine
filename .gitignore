@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Multimodal AI Engine Exclusions ---
+.venv/
+data/session_data/
+data/logs/
+data/raw_trends/metadata/*.png
+__pycache__/
+ollama.log

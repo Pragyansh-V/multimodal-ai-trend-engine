@@ -1,0 +1,92 @@
+[
+    {
+        "domain": ".instagram.com",
+        "expirationDate": 1809108610.17889,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "datr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "dnbFaXz6cl1u1eOhNtSfH-vh"
+    },
+    {
+        "domain": ".instagram.com",
+        "expirationDate": 1812999182,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "csrftoken",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "toy1gxMydmZT64IUuOidVBxWAzGQlnnz"
+    },
+    {
+        "domain": ".instagram.com",
+        "expirationDate": 1792598018.546282,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ig_did",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "BFF31C1F-7FB4-42D2-AFDA-45967381A8A5"
+    },
+    {
+        "domain": ".instagram.com",
+        "expirationDate": 1779043982,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "wd",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1707x748"
+    },
+    {
+        "domain": ".instagram.com",
+        "expirationDate": 1788675871.211797,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "mid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "aI2vHwALAAHmMwurn4Sjs4PWru65"
+    },
+    {
+        "domain": ".instagram.com",
+        "expirationDate": 1779043982,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "dpr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0.800000011920929"
+    },
+    {
+        "domain": ".instagram.com",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "rur",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "\"RVA\\05415137585277\\0541809975152:01fe455e6f827796be616ddbbbbdb9ef38463b21815900ef5acfe29448979f45dc3ffcea\""
+    }
+]
